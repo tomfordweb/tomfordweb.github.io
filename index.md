@@ -6,4 +6,6 @@ Besides writing code, I enjoy my racecars. I have built, blueprinted and calibra
 
 In additon to cars, I have been working on setting up a homelab for faster pipelines and a better developer experience.
 
-Always looking to <a href="mailto:tomfordweb@gmail.com">work with other developers</a>.
+<p>View my <a href="https://github.com/tomfordweb">github</a></p>
+
+I am always looking to <a href="mailto:tomfordweb@gmail.com">work with other developers</a>.

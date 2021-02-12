@@ -1,37 +1,9 @@
-## Welcome to GitHub Pages
+Tom Ford is a full stack developer with over ten years experience creating websites and web based applications.
 
-You can use the [editor on GitHub](https://github.com/tomfordweb/tomfordweb.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+Main languages are in PHP, JavaScript and Python. I find myself mostly in working with the web, containers, linux, and continious integration systems lately.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Besides writing code, I enjoy my racecars. I have built, blueprinted and calibrated two turbocharged Subaru engines, one of which is now around 500 horsepower, the other my daily driver.
 
-### Markdown
+In additon to cars, I have been working on setting up a homelab for faster pipelines and a better developer experience.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/tomfordweb/tomfordweb.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Always looking to <a href="mailto:tomfordweb@gmail.com">work with other developers</a>.
